@@ -3,7 +3,7 @@ package com.learn;
 import java.util.HashMap;
 import java.util.Stack;
 
-public class AdditionOfTwoIntegers {
+public class Practiceprograms {
 	public static int[] findAdditionOfTwoIntegers(int[] nums, int target) {
 		int[] result;
 		HashMap<Integer, Integer> numMap = new HashMap<>();
